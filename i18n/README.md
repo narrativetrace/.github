@@ -56,11 +56,10 @@ at the time the translation was last stamped. `check.py` compares those with
 the current source and reports exactly which blocks changed, so only those
 paragraphs need retranslating.
 
-## Blocking merges on a red check
+## Trunk-based development
 
-The workflow fails on its own, but GitHub only *blocks merging* if the check is
-declared required. That is repository configuration, not code; the ruleset lives
-in `.github/rulesets/main.json` so it is versioned. Apply it once per repository:
-Settings → Rules → Rulesets → New ruleset → Import a ruleset → pick that file.
-It requires the `check` job of the `i18n check` workflow to pass, forbids
-force-pushes and deletion of `main`, and lets repository admins bypass.
+Commits go straight to `main`; the `i18n check` workflow runs on every push and a
+red run means fix forward. The check is deliberately *not* a required status
+check. `.github/rulesets/main.json` only forbids force-pushes and deletion of
+`main`; import it once per repository via Settings → Rules → Rulesets → New
+ruleset → Import a ruleset.
