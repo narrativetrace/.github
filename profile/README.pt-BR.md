@@ -1,0 +1,21 @@
+<!-- i18n: source=profile/README.md lang=pt-BR -->
+
+> 🌐 [English](README.md) · [简体中文](README.zh-CN.md) · [Español](README.es.md) · Português · [Français](README.fr.md)
+>
+> _Esta tradução é disponibilizada por conveniência. A versão em inglês é a oficial._
+
+**O código é o log.** O NarrativeTrace transforma código em execução em narrativas legíveis — rastros de execução para as pessoas que depuram, rastros estruturais sem valores para os agentes de IA que escrevem código, e uma linha de base que faz o build falhar quando o comportamento se desvia.
+
+### Bibliotecas
+
+| Runtime | Repositório | Status |
+|---|---|---|
+| Java | [narrativetrace-java](https://github.com/narrativetrace/narrativetrace-java) | **0.1.0 no Maven Central** |
+| .NET | narrativetrace-dotnet | em desenvolvimento |
+| TypeScript | narrativetrace-typescript | em desenvolvimento |
+| Swift | narrativetrace-swift | em desenvolvimento |
+| Python | narrativetrace-python | planejado |
+
+**[narrativetrace.ai](https://narrativetrace.ai)** · [Primeiros passos](https://narrativetrace.ai/docs/getting-started) · [Pro e Platform](https://narrativetrace.ai/pro)
+
+<sub>Desenvolvido por [Empower Agile](https://empoweragile.com) · Apache-2.0</sub>

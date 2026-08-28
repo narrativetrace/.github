@@ -1,0 +1,19 @@
+{
+  "_comment": "keep: must appear verbatim, same number of times as in the English source. translate: if the English term appears, the canonical translation must appear.",
+  "keep": [
+    "NarrativeTrace",
+    "@NotTraced",
+    "RedactionPolicy",
+    "Apache-2.0",
+    "contact@empoweragile.com",
+    "Signed-off-by",
+    "Conventional Commits",
+    "Developer Certificate of Origin",
+    "Empower Agile"
+  ],
+  "translate": {
+    "baseline": { "zh-CN": "基线", "es": "línea base", "pt-BR": "linha de base", "fr": "référence" },
+    "trace":    { "zh-CN": "追踪", "es": "traza",      "pt-BR": "rastro",        "fr": "trace" },
+    "pull request": { "zh-CN": "Pull Request", "es": "pull request", "pt-BR": "pull request", "fr": "pull request" }
+  }
+}

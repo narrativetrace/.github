@@ -1,3 +1,5 @@
+> 🌐 English · [简体中文](CONTRIBUTING.zh-CN.md) · [Español](CONTRIBUTING.es.md) · [Português](CONTRIBUTING.pt-BR.md) · [Français](CONTRIBUTING.fr.md)
+
 # Contributing to NarrativeTrace
 
 Thanks for your interest in NarrativeTrace. This document applies to every repository

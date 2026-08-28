@@ -1,3 +1,5 @@
+> 🌐 English · [简体中文](SECURITY.zh-CN.md) · [Español](SECURITY.es.md) · [Português](SECURITY.pt-BR.md) · [Français](SECURITY.fr.md)
+
 # Security Policy
 
 This policy applies to the open-source NarrativeTrace libraries published under the

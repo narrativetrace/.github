@@ -1,0 +1,14 @@
+{
+  "source_language": "en",
+  "languages": {
+    "zh-CN": "简体中文",
+    "es": "Español",
+    "pt-BR": "Português",
+    "fr": "Français"
+  },
+  "files": [
+    "profile/README.md",
+    "SECURITY.md",
+    "CONTRIBUTING.md"
+  ]
+}
