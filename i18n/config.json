@@ -7,6 +7,7 @@
     "fr": "Français"
   },
   "files": [
+    "README.md",
     "profile/README.md",
     "SECURITY.md",
     "CONTRIBUTING.md"
