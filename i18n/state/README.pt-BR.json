@@ -1,7 +1,7 @@
 {
   "source": "README.md",
   "lang": "pt-BR",
-  "source_sha256": "3cab2648b762d4f1807bf7034c4bbdb8ee2bbb0c2fd833d6ea2e980e1ddcdc4d",
+  "source_sha256": "821037cacc4351fd9e54df586859a3ddef129bc0bbdacdf911f65a99dbe08f31",
   "blocks": [
     "29b24ce06ccae80f",
     "face90910cd8a279",
@@ -11,6 +11,7 @@
     "833c7b5926569014",
     "0d798a8d1cc00f23",
     "6c549a56db01e021",
-    "3c7e3567b1c75954"
+    "f2a1f06ec6afa2f6",
+    "cf2a1fcc939d6907"
   ]
 }

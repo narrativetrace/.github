@@ -42,8 +42,8 @@ Abra uma issue no repositório relevante informando:
 Todas as contribuições devem ser assinadas sob o
 [Developer Certificate of Origin](https://developercertificate.org/) (DCO, Certificado de Origem do Desenvolvedor). Ao assinar,
 você certifica que escreveu a contribuição ou que, de outra forma, tem o direito de submetê-la
-sob a licença [Apache-2.0](https://www.apache.org/licenses/LICENSE-2.0)
-do projeto.
+sob a licença de entrada descrita na seção Licença
+abaixo.
 
 Adicione a assinatura a cada commit com `git commit -s`, que acrescenta uma linha como:
 
@@ -90,6 +90,26 @@ docs/annotations-guide
 
 ## Licença
 
-Ao contribuir, você concorda que suas contribuições são licenciadas sob a
-[Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0), a mesma licença
-do projeto.
+O NarrativeTrace é licenciado em três partes, e cada repositório marca a qual delas
+cada artefato pertence:
+
+- a **API e o formato de saída** (`narrativetrace-api` e seus equivalentes, a
+  especificação do formato, a rubrica de clareza) são padrões abertos sob a
+  [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0);
+- o **runtime** é gratuito, inclusive em produção, e de código disponível sob a
+  [Business Source License 1.1](https://mariadb.com/bsl11/); cada versão passa a Apache 2.0 quatro anos
+  após a publicação;
+- o **NarrativeTrace Pro** é comercial e não é desenvolvido nestes repositórios.
+
+**Licença de entrada das contribuições.** Ao contribuir, você licencia sua contribuição
+à Empower Agile e a todo destinatário do projeto sob a
+[Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0), independentemente da parte do projeto que ela toque. É isso
+que permite que uma contribuição ao runtime seja distribuída hoje sob a Business Source
+License, passe a Apache 2.0 na data de conversão e seja incluída nas edições comerciais
+— enquanto você mantém o copyright e todos os direitos que a Apache 2.0 lhe dá de usar o
+próprio trabalho em outro lugar. Contribuições à API e ao formato são simplesmente
+Apache 2.0 na entrada e Apache 2.0 na saída.
+
+A assinatura DCO em cada commit é a sua certificação dessa concessão; nenhum acordo de
+contribuidor separado é necessário. Contribuições à documentação são licenciadas sob
+[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).

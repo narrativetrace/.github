@@ -10,12 +10,12 @@
 
 | 运行时 | 仓库 | 状态 |
 |---|---|---|
-| Java | [narrativetrace-java](https://github.com/narrativetrace/narrativetrace-java) | **0.1.0 已发布至 Maven Central** |
+| Java | [narrativetrace-java](https://github.com/narrativetrace/narrativetrace-java) | **0.2.0 — 首个公开版本准备中** |
 | .NET | narrativetrace-dotnet | 开发中 |
 | TypeScript | narrativetrace-typescript | 开发中 |
 | Swift | narrativetrace-swift | 开发中 |
 | Python | narrativetrace-python | 计划中 |
 
-**[narrativetrace.ai](https://narrativetrace.ai)** · [快速开始](https://narrativetrace.ai/docs/getting-started) · [Pro 与平台](https://narrativetrace.ai/pro)
+**[narrativetrace.ai](https://narrativetrace.ai)** · [快速开始](https://narrativetrace.ai/docs/getting-started) · [Pro 与企业版](https://narrativetrace.ai/pro)
 
-<sub>由 [Empower Agile](https://empoweragile.com) 构建 · Apache-2.0</sub>
+<sub>由 [Empower Agile](https://empoweragile.com) 构建 · API 与格式采用 Apache 2.0 · 运行时免费且源码可见（BSL 1.1）· [许可说明](https://narrativetrace.ai/license)</sub>

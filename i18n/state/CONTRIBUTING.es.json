@@ -1,7 +1,7 @@
 {
   "source": "CONTRIBUTING.md",
   "lang": "es",
-  "source_sha256": "a1ac0d1e69afa97f381b94bfd8d6bdf998637a7b665bc78ea9dab38191ee4dcb",
+  "source_sha256": "b804d296638f7bf88c91e342059f59c40526a33e5cf9ea79d554a3b21850929a",
   "blocks": [
     "b985cc3201112d42",
     "9564ca48ccec291a",
@@ -13,7 +13,7 @@
     "e0eaee5243d06819",
     "8b044cdb16bf4e78",
     "3af73d4a5bb14101",
-    "bb003a64fdd4645a",
+    "8e6c6e3f5c136150",
     "96192a49f36ff317",
     "035094e8427d5669",
     "da183b9e8e1ca269",
@@ -27,6 +27,9 @@
     "258a13bd03f151ea",
     "f40b8a4f586d8fee",
     "6c549a56db01e021",
-    "cd76c006dc4a1fad"
+    "dd82dde0c0c097dc",
+    "03478b5120be07ed",
+    "ca4e0ca93a48e5c3",
+    "e5799ec5c938fa47"
   ]
 }

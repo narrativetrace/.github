@@ -10,12 +10,12 @@
 
 | Runtime | Dépôt | Statut |
 |---|---|---|
-| Java | [narrativetrace-java](https://github.com/narrativetrace/narrativetrace-java) | **0.1.0 sur Maven Central** |
+| Java | [narrativetrace-java](https://github.com/narrativetrace/narrativetrace-java) | **0.2.0 — première version publique en préparation** |
 | .NET | narrativetrace-dotnet | en développement |
 | TypeScript | narrativetrace-typescript | en développement |
 | Swift | narrativetrace-swift | en développement |
 | Python | narrativetrace-python | prévu |
 
-**[narrativetrace.ai](https://narrativetrace.ai)** · [Premiers pas](https://narrativetrace.ai/docs/getting-started) · [Pro & Platform](https://narrativetrace.ai/pro)
+**[narrativetrace.ai](https://narrativetrace.ai)** · [Premiers pas](https://narrativetrace.ai/docs/getting-started) · [Pro & Enterprise](https://narrativetrace.ai/pro)
 
-<sub>Développé par [Empower Agile](https://empoweragile.com) · Apache-2.0</sub>
+<sub>Développé par [Empower Agile](https://empoweragile.com) · API et format Apache 2.0 · runtime gratuit et à sources disponibles (BSL 1.1) · [comment c'est licencié](https://narrativetrace.ai/license)</sub>

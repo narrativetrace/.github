@@ -25,4 +25,14 @@ Chaque document de ce dépôt est maintenu en anglais et traduit en chinois simp
 
 ## Licence
 
-[Apache-2.0](https://www.apache.org/licenses/LICENSE-2.0) · Réalisé par [Empower Agile](https://empoweragile.com)
+L'API et le format de sortie de NarrativeTrace sont des standards ouverts sous
+[licence Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0). Son runtime est gratuit et à sources
+disponibles (source-available) sous la
+[Business Source License 1.1](https://mariadb.com/bsl11/), et chaque version passe sous
+Apache 2.0 quatre ans après sa publication. Son intelligence — NarrativeTrace Pro — est
+commerciale. Chaque dépôt indique laquelle s'applique à chaque artefact ; le modèle
+complet est décrit sur [narrativetrace.ai/license](https://narrativetrace.ai/license).
+
+Les documents de ce dépôt sont sous licence
+[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Réalisé par
+[Empower Agile](https://empoweragile.com).

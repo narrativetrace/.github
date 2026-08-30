@@ -44,7 +44,7 @@ Toutes les contributions doivent être signées conformément au
 [Developer Certificate of Origin](https://developercertificate.org/) (DCO, certificat
 d'origine du développeur). En signant, vous certifiez que vous êtes l'auteur de la
 contribution, ou que vous disposez par ailleurs du droit de la soumettre sous la licence
-[Apache-2.0](https://www.apache.org/licenses/LICENSE-2.0) du projet.
+entrante décrite dans la section Licence ci-dessous.
 
 Ajoutez une signature à chaque commit avec `git commit -s`, qui ajoute une ligne de la
 forme :
@@ -94,6 +94,26 @@ docs/annotations-guide
 
 ## Licence
 
-En contribuant, vous acceptez que vos contributions soient placées sous la
-[licence Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0), la même licence que
-celle du projet.
+NarrativeTrace est sous licence en trois parties, et chaque dépôt indique à laquelle
+appartient chaque artefact :
+
+- l'**API et le format de sortie** (`narrativetrace-api` et ses équivalents, la
+  spécification du format, la grille de clarté) sont des standards ouverts sous
+  [licence Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0) ;
+- le **runtime** est gratuit, y compris en production, et à sources disponibles sous la
+  [Business Source License 1.1](https://mariadb.com/bsl11/) ; chaque version passe sous Apache 2.0 quatre ans
+  après sa publication ;
+- **NarrativeTrace Pro** est commercial et n'est pas développé dans ces dépôts.
+
+**Licence entrante des contributions.** En contribuant, vous concédez votre contribution
+à Empower Agile et à tout destinataire du projet sous
+[licence Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0), quelle que soit la partie du projet concernée. C'est ce qui
+permet à une contribution au runtime d'être distribuée aujourd'hui sous la Business
+Source License, de passer sous Apache 2.0 à sa date de conversion et d'être incluse dans
+les éditions commerciales — tout en vous laissant le copyright et tous les droits
+qu'Apache 2.0 vous donne d'utiliser votre propre travail ailleurs. Les contributions à
+l'API et au format sont simplement Apache 2.0 en entrée et Apache 2.0 en sortie.
+
+La signature DCO de chaque commit vaut certification de cette concession ; aucun accord
+de contributeur distinct n'est requis. Les contributions à la documentation sont sous
+licence [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).

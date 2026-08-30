@@ -25,4 +25,14 @@ Todos os documentos deste repositório são mantidos em inglês e traduzidos par
 
 ## Licença
 
-[Apache-2.0](https://www.apache.org/licenses/LICENSE-2.0) · Desenvolvido por [Empower Agile](https://empoweragile.com)
+A API e o formato de saída do NarrativeTrace são padrões abertos sob a
+[Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0). Seu runtime é gratuito e de código
+disponível (source-available) sob a
+[Business Source License 1.1](https://mariadb.com/bsl11/), e cada versão passa a
+Apache 2.0 quatro anos após a publicação. Sua inteligência — NarrativeTrace Pro — é
+comercial. Cada repositório indica qual delas se aplica a cada artefato; o modelo
+completo está em [narrativetrace.ai/license](https://narrativetrace.ai/license).
+
+Os documentos deste repositório são licenciados sob
+[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Desenvolvido por
+[Empower Agile](https://empoweragile.com).

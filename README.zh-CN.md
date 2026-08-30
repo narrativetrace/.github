@@ -25,4 +25,6 @@
 
 ## 许可证
 
-[Apache-2.0](https://www.apache.org/licenses/LICENSE-2.0) · 由 [Empower Agile](https://empoweragile.com) 构建
+NarrativeTrace 的 API 与输出格式是采用 [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0) 的开放标准。其运行时免费且源码可见（source-available），采用 [Business Source License 1.1](https://mariadb.com/bsl11/)，每个版本在发布四年后转为 Apache 2.0。其智能层——NarrativeTrace Pro——为商业产品。每个仓库都会说明各制品适用哪一种许可；完整模型见 [narrativetrace.ai/license](https://narrativetrace.ai/license)。
+
+本仓库中的文档采用 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 授权。由 [Empower Agile](https://empoweragile.com) 构建。

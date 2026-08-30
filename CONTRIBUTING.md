@@ -38,8 +38,7 @@ Open an issue in the relevant repository with:
 All contributions must be signed off under the
 [Developer Certificate of Origin](https://developercertificate.org/) (DCO). By signing
 off, you certify that you wrote the contribution or otherwise have the right to submit
-it under the project's [Apache-2.0](https://www.apache.org/licenses/LICENSE-2.0)
-license.
+it under the inbound license described in the License section below.
 
 Add a sign-off to every commit with `git commit -s`, which appends a line like:
 
@@ -86,6 +85,26 @@ docs/annotations-guide
 
 ## License
 
-By contributing, you agree that your contributions are licensed under the
-[Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0), the same license
-as the project.
+NarrativeTrace is licensed in three parts, and each repository marks which part an
+artifact belongs to:
+
+- the **API and output format** (`narrativetrace-api` and its equivalents, the format
+  specification, the clarity rubric) are open standards under the
+  [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0);
+- the **runtime** is free to use, including in production, and source-available under
+  the [Business Source License 1.1](https://mariadb.com/bsl11/); each release converts
+  to Apache 2.0 four years after its publication;
+- **NarrativeTrace Pro** is commercial and is not developed in these repositories.
+
+**Inbound license for contributions.** By contributing, you license your contribution
+to Empower Agile and to every recipient of the project under the
+[Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0), regardless of which
+part of the project it touches. This is what lets a runtime contribution be distributed
+under the Business Source License today, become Apache 2.0 on its conversion date, and
+be included in commercial editions — while you keep the copyright and every right
+Apache 2.0 gives you to use your own work elsewhere. Contributions to the API and
+format are simply Apache 2.0 in and Apache 2.0 out.
+
+The DCO sign-off on each commit is your certification of that grant; no separate
+contributor agreement is required. Documentation contributions are licensed under
+[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).

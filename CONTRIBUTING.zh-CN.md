@@ -27,7 +27,7 @@
 
 ## Developer Certificate of Origin
 
-所有贡献都必须依据 [Developer Certificate of Origin](https://developercertificate.org/)（开发者原创证书，DCO）进行签署。通过签署，您证明该贡献由您本人撰写，或者您拥有在本项目的 [Apache-2.0](https://www.apache.org/licenses/LICENSE-2.0) 许可证下提交它的权利。
+所有贡献都必须依据 [Developer Certificate of Origin](https://developercertificate.org/)（开发者原创证书，DCO）进行签署。通过签署，您证明该贡献由您本人撰写，或者您拥有依据下文“许可证”一节所述的入站许可提交它的权利。
 
 请使用 `git commit -s` 为每次提交添加签署，该命令会追加一行类似如下的内容：
 
@@ -69,4 +69,12 @@ docs/annotations-guide
 
 ## 许可证
 
-您提交贡献即表示同意您的贡献依据 [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0) 授权，与本项目采用相同的许可证。
+NarrativeTrace 的许可分为三部分，每个仓库都会标明各制品属于哪一部分：
+
+- **API 与输出格式**（`narrativetrace-api` 及其各平台等价物、格式规范、清晰度评分标准）是采用 [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0) 的开放标准；
+- **运行时**可免费使用（包括生产环境），源码可见，采用 [Business Source License 1.1](https://mariadb.com/bsl11/)；每个版本在发布四年后转为 Apache 2.0；
+- **NarrativeTrace Pro** 为商业产品，不在这些仓库中开发。
+
+**贡献的入站许可。** 提交贡献即表示您将该贡献依据 [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0) 授权给 Empower Agile 以及本项目的所有接收者，无论它涉及项目的哪一部分。正是这一点使得对运行时的贡献今天可以在 Business Source License 下分发、在转换日期转为 Apache 2.0，并可纳入商业版本——同时您保留版权，以及 Apache 2.0 赋予您在别处使用自己作品的一切权利。对 API 与格式的贡献则是 Apache 2.0 进、Apache 2.0 出。
+
+每次提交的 DCO 签署即是您对上述授权的证明；无需另行签署贡献者协议。对文档的贡献采用 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 授权。
