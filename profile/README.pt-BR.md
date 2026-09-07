@@ -10,11 +10,11 @@
 
 | Runtime | Repositório | Status |
 |---|---|---|
-| Java | [narrativetrace-java](https://github.com/narrativetrace/narrativetrace-java) | **0.2.0 — primeira versão pública em preparação** |
-| .NET | narrativetrace-dotnet | em desenvolvimento |
-| TypeScript | narrativetrace-typescript | em desenvolvimento |
+| Java | [narrativetrace-java](https://github.com/narrativetrace/narrativetrace-java) | **0.2.0 — publicada** · [Maven Central](https://central.sonatype.com/namespace/ai.narrativetrace) · [Gradle Plugin Portal](https://plugins.gradle.org/plugin/ai.narrativetrace) |
+| .NET | [narrativetrace-dotnet](https://github.com/narrativetrace/narrativetrace-dotnet) | **0.1.0 — publicada** · [NuGet](https://www.nuget.org/profiles/narrativetrace) |
+| TypeScript | [narrativetrace-typescript](https://github.com/narrativetrace/narrativetrace-typescript) | **código-fonte publicado** · pacotes npm em preparação |
 | Swift | narrativetrace-swift | em desenvolvimento |
-| Python | narrativetrace-python | planejado |
+| Python | narrativetrace-python | em desenvolvimento |
 
 **[narrativetrace.ai](https://narrativetrace.ai)** · [Primeiros passos](https://narrativetrace.ai/docs/getting-started) · [Pro e Enterprise](https://narrativetrace.ai/pro)
 

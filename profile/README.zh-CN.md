@@ -10,11 +10,11 @@
 
 | 运行时 | 仓库 | 状态 |
 |---|---|---|
-| Java | [narrativetrace-java](https://github.com/narrativetrace/narrativetrace-java) | **0.2.0 — 首个公开版本准备中** |
-| .NET | narrativetrace-dotnet | 开发中 |
-| TypeScript | narrativetrace-typescript | 开发中 |
+| Java | [narrativetrace-java](https://github.com/narrativetrace/narrativetrace-java) | **0.2.0 — 已发布** · [Maven Central](https://central.sonatype.com/namespace/ai.narrativetrace) · [Gradle Plugin Portal](https://plugins.gradle.org/plugin/ai.narrativetrace) |
+| .NET | [narrativetrace-dotnet](https://github.com/narrativetrace/narrativetrace-dotnet) | **0.1.0 — 已发布** · [NuGet](https://www.nuget.org/profiles/narrativetrace) |
+| TypeScript | [narrativetrace-typescript](https://github.com/narrativetrace/narrativetrace-typescript) | **源码已公开** · npm 包准备中 |
 | Swift | narrativetrace-swift | 开发中 |
-| Python | narrativetrace-python | 计划中 |
+| Python | narrativetrace-python | 开发中 |
 
 **[narrativetrace.ai](https://narrativetrace.ai)** · [快速开始](https://narrativetrace.ai/docs/getting-started) · [Pro 与企业版](https://narrativetrace.ai/pro)
 
