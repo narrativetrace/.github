@@ -12,9 +12,9 @@
 |---|---|---|
 | Java | [narrativetrace-java](https://github.com/narrativetrace/narrativetrace-java) | **0.2.0 — publicada** · [Maven Central](https://central.sonatype.com/namespace/ai.narrativetrace) · [Gradle Plugin Portal](https://plugins.gradle.org/plugin/ai.narrativetrace) |
 | .NET | [narrativetrace-dotnet](https://github.com/narrativetrace/narrativetrace-dotnet) | **0.1.0 — publicada** · [NuGet](https://www.nuget.org/profiles/narrativetrace) |
-| TypeScript | [narrativetrace-typescript](https://github.com/narrativetrace/narrativetrace-typescript) | **código fuente publicado** · paquetes npm en preparación |
+| TypeScript | [narrativetrace-typescript](https://github.com/narrativetrace/narrativetrace-typescript) | **0.1.1 — publicada** · [npm](https://www.npmjs.com/org/narrativetrace) |
 | Swift | narrativetrace-swift | en desarrollo |
-| Python | narrativetrace-python | en desarrollo |
+| Python | [narrativetrace-python](https://github.com/narrativetrace/narrativetrace-python) | **código fuente publicado** · paquetes PyPI en preparación |
 
 **[narrativetrace.ai](https://narrativetrace.ai)** · [Primeros pasos](https://narrativetrace.ai/docs/getting-started) · [Pro y Enterprise](https://narrativetrace.ai/pro)
 
